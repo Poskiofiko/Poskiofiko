@@ -3,7 +3,6 @@
 - 👀 Zajímá mě technika
 - 🌱 Zaměřuji se na programování a správu projektů
 - 💞️ Právě pracuji na několika projektech
-- 📫 Najdeš mě na https://poski.lol
 
 ---
 
@@ -12,7 +11,6 @@ ENGLISH USERS:
 - 👀 I'm interested in technology
 - 🌱 I focus on programming and project management
 - 💞️ I'm working on a few projects right now
-- 📫 You can find me at https://poski.lol
 
 <!---
 Poskiofiko/Poskiofiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
